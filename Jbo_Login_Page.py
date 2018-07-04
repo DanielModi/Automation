@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from base.selenium_driver import SeleniumDriver
 import utilities.hash as hh
 
-class Jumbo_LoginPage:
+class Jbo_LoginPage:
     log = cl.customLogger(logging.DEBUG)
 
 # Locators
